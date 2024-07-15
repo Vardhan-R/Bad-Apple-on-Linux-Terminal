@@ -13,7 +13,7 @@ $ clear
 #define RESET "\033[0m" // to reset the text formatting (the colour)
 
 int main(int argc, char *argv[]) {
-	// the command-line arguments should be [number of frames to play, width of the images, height of the images, fps to play at, path to the file where the pixel values of the frames are stored (with the extension)]
+	// the command-line arguments should be [number of frames to play, width of the images, height of the images, FPS to play at, path to the file where the pixel values of the frames are stored]
 	int frames = atoi(argv[1]), width = atoi(argv[2]), height = atoi(argv[3]);
 	double fps = atoi(argv[4]);
 	char file_name = argv[5];
