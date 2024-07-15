@@ -4,11 +4,13 @@ Yet another way to play Bad Apple.
 ## Installation and Setup
 1. Download the repository.
 
-2. Download the [audio file and the frames](https://drive.google.com/file/d/1rLPlZHCaornrV7hCjfVy41MrpWPN9Ju0/view?usp=drive_link).
+2. Download [`bad_apple_files.tar.gz`](https://drive.google.com/file/d/1rLPlZHCaornrV7hCjfVy41MrpWPN9Ju0/view?usp=drive_link).
 
-3. The `image_sequence` directory, `bad_apple.c`, `bad_apple.wav` and `image_resizing.py` must be in the same location.
+3. Extract the audio file and the frames.
 
-2. Make sure that the [requirements](requirements.md) are met.
+4. Place the `image_sequence` directory, [`bad_apple.c`](bad_apple.c), `bad_apple.wav` and [`image_resizing.py`](image_resizing.py) in the same location.
+
+5. Make sure that the [requirements](requirements.md) are met.
 
 ## Usage
 1. Open a Linux terminal.
