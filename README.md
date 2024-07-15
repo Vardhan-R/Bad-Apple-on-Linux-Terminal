@@ -1,5 +1,5 @@
 # Bad Apple on Linux Terminal
-Yet another way to play Bad Apple.
+Yet another way to play Bad Apple. This project leverages ANSI escape codes to "play videos" on Linux Terminal. You can find a demonstration of the program on [YouTube](https://youtu.be/EL0Ug21vNac).
 
 ## Installation and Setup
 1. Download the repository.
