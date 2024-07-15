@@ -13,7 +13,7 @@ Yet another way to play Bad Apple.
 5. Make sure that the [requirements](requirements.md) are met.
 
 ## Usage
-1. Open a Linux terminal.
+1. Open Linux Terminal.
 
 2. Enter the directory in which the audio, C and Python files are.
 
