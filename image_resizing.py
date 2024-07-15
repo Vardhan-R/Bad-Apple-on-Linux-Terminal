@@ -1,6 +1,6 @@
 import cv2, sys
 
-# the command-line arguments should be [executed file name, number of frames to resize, width of the resized image, height of the resized image, output file path (with the extension)]
+# the command-line arguments should be [executed file name, number of frames to resize, width of the resized image, height of the resized image, output file path]
 frames = int(sys.argv[1])
 new_shape = (int(sys.argv[2]), int(sys.argv[3]))
 op_file_path = sys.argv[4]
