@@ -1,2 +1,2 @@
-# Bad-Apple-on-Linux-Terminal
+# Bad Apple on Linux Terminal
 Yet another way to play Bad Apple.
